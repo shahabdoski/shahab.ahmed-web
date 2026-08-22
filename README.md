@@ -1,1 +1,1 @@
-indox,html
+indox.html
